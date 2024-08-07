@@ -1,4 +1,3 @@
-```markdown
 # Job Application Form
 
 Hey there! 🌟 This is my first web development project—a simple job application form made with HTML and CSS.
