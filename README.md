@@ -4,7 +4,7 @@ Hey there! 🌟 This is my first web development project—a simple job applicat
 
 ## Live Demo
 
-Check out the live demo [here](https://(https://duaascripts.github.io/HTMLCSS-Projects/) 🎉
+Check out the live demo [here](https://duaascripts.github.io/HTMLCSS-Projects/) 🎉
 
 ## How to Use
 
